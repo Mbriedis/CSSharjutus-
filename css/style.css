@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+body {background-color: rgb(187, 219, 224);}
+.heading {text-align: center} 
+.headingfont {color: purple; font-family: 'Square Peg', cursive; font-size: 6rem;
+}
+.footer {text-align: center; font-family: 'Square Peg', cursive;
+}
+.main {border: 4px solid grey; width: 75%; margin: 0 auto;}
+.main div {width: 200px; height: 200px; border: 1px solid black; border-radius: 50%; margin: 2rem auto;}
+#red {border-color: red;}
+#green {border-color: green;}
+#blue {border-color: blue;}
